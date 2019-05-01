@@ -1,0 +1,19 @@
+[Forwarded from Akiha]
+#>>方法1，全部查询
+#【查询所有域名，按分类分组】
+#查询出来后,通过PHP根据CMS分类切割，保存到不同的文件就可以了
+#或者不用写代码，直接复制到excel中筛选也可以
+SELECT `url`,`cms` FROM `cms` ORDER BY `cms`.`cms`  DESC;
+
+#>>方法2，逐个分类查询
+#【查询有哪些cms分类】
+SELECT `cms` FROM `cms` group by `cms`;
+
+#【查询某个cms分类下的所有域名】
+#（DedeCMS是cms分类名称，要逐个查询）
+SELECT `url` FROM `cms` WHERE `cms` = 'DedeCMS';
+
+
+#>>其他
+#【查询哪个服务器（IP）提交了多少个网址】
+SELECT `postIP` as 'IP',count(`url`) as 'url' FROM `cms` group by `postIP`;
