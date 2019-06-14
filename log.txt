@@ -1,0 +1,364 @@
+[2019.06.14 01:54:01] Launched version: 1007007, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2019.06.14 01:54:01] Executable dir: C:/Users/Administrator/Desktop/, name: Telegram.exe
+[2019.06.14 01:54:01] Initial working dir: C:/Users/Administrator/Desktop/
+[2019.06.14 01:54:01] Working dir: C:/Users/Administrator/Desktop/
+[2019.06.14 01:54:01] Command line: C:\Users\Administrator\Desktop\Telegram.exe
+[2019.06.14 01:54:01] Executable path before check: C:/Users/Administrator/Desktop/Telegram.exe
+[2019.06.14 01:54:01] Logs started
+[2019.06.14 01:54:01] Connecting local socket to Global\e1504ec5b1686685fc190bf8e7942d2f-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2019.06.14 01:54:01] This is the only instance of Telegram, starting server and app...
+[2019.06.14 01:54:01] Moved logging from 'C:/Users/Administrator/Desktop/log_start0.txt' to 'C:/Users/Administrator/Desktop/log.txt'!
+[2019.06.14 01:54:01] Primary screen DPI: 96
+[2019.06.14 01:54:01] App Info: reading settings...
+[2019.06.14 01:54:01] App Info: reading encrypted settings...
+[2019.06.14 01:54:01] Lang Info: Loaded cached, keys: 2129
+[2019.06.14 01:54:01] Lang Error: Unexpected tag (key 'lng_action_add_user:users')
+[2019.06.14 01:54:01] Lang Error: Expected '}' after tag name (key 'lng_confirm_phone_about:phone')
+[2019.06.14 01:54:01] Lang Info: Loaded cached, keys: 2319
+[2019.06.14 01:54:01] OpenAL Logging Level: (not set)
+[2019.06.14 01:54:01] Audio Playback Devices: OpenAL Soft
+[2019.06.14 01:54:01] Audio Playback Default Device: OpenAL Soft
+[2019.06.14 01:54:01] Audio Capture Devices: 
+[2019.06.14 01:54:01] Audio Capture Default Device: 
+[2019.06.14 01:54:01] Audio Error: Could not open capture device!
+[2019.06.14 01:54:01] App Info: reading map...
+[2019.06.14 01:54:01] App Info: reading encrypted map...
+[2019.06.14 01:54:01] App Info: reading encrypted user settings...
+[2019.06.14 01:54:01] App Info: encrypted user settings read.
+[2019.06.14 01:54:01] App Info: reading encrypted mtp data...
+[2019.06.14 01:54:01] MTP Info: read keys, current: 4, to destroy: 0
+[2019.06.14 01:54:01] Map read time: 19
+[2019.06.14 01:54:01] Export Info: Destroy top bar by controller removal.
+[2019.06.14 01:54:01] Window Shadow: 1, 1, 3, 4, 6, 9, 13, 18, 24, 31, 38, 46
+[2019.06.14 01:54:26] MTP Error: DC 21004 options for not found right after config load!
+[2019.06.14 01:54:27] MTP Error: DC 21004 options for not found right after config load!
+[2019.06.14 01:54:27] MTP Error: DC 21004 options for not found right after config load!
+[2019.06.14 01:54:27] MTP Error: DC 21004 options for not found right after config load!
+[2019.06.14 01:54:27] MTP Info: destroying stale keys, count: 4
+[2019.06.14 01:54:27] MTP Error: DC 2561004 options for not found for auth key destruction!
+[2019.06.14 01:54:28] Message Error: unknown constructor 0xf660e1d4
+[2019.06.14 01:54:29] TCP Error: error packet received, endpoint: '91.108.56.127:443', protocolDcId: 5, code = -404
+[2019.06.14 01:54:29] MTP Info: -404 error received on destroying key 2560005, assuming it is destroyed.
+[2019.06.14 01:54:29] Message Error: unknown constructor 0xf660e1d4
+[2019.06.14 01:54:31] TCP Error: error packet received, endpoint: '149.154.167.51:443', protocolDcId: 2, code = -404
+[2019.06.14 01:54:31] MTP Info: -404 error received on destroying key 2560002, assuming it is destroyed.
+[2019.06.14 01:54:31] TCP Error: error packet received, endpoint: '149.154.175.55:443', protocolDcId: 1, code = -404
+[2019.06.14 01:54:31] MTP Info: -404 error received on destroying key 2560001, assuming it is destroyed.
+[2019.06.14 01:54:31] MTP Info: all keys scheduled for destroy are destroyed.
+[2019.06.14 01:56:37] RPC Error: request 53 got fail with code 400, error PHONE_NUMBER_UNOCCUPIED
+[2019.06.14 01:57:41] Export Info: Destroy top bar by controller removal.
+[2019.06.14 02:06:01] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 02:06:03] Audio Info: Closing audio playback device.
+[2019.06.14 02:08:08] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 02:08:10] Audio Info: Closing audio playback device.
+[2019.06.14 02:08:14] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 02:08:16] Audio Info: Closing audio playback device.
+[2019.06.14 02:10:04] Skipping message, because it is already in blocks!
+[2019.06.14 02:10:45] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 02:10:47] Audio Info: Closing audio playback device.
+[2019.06.14 02:11:11] Skipping message, because it is already in blocks!
+[2019.06.14 02:11:22] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 02:11:24] Audio Info: Closing audio playback device.
+[2019.06.14 02:29:01] App Info: writing encrypted user settings...
+[2019.06.14 02:29:15] Skipping message, because it is already in blocks!
+[2019.06.14 02:29:53] Skipping message, because it is already in blocks!
+[2019.06.14 11:59:42] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:07:37] Audio Info: Closing audio playback device.
+[2019.06.14 15:07:40] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:07:42] Audio Info: Closing audio playback device.
+[2019.06.14 15:38:53] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:38:55] Audio Info: Closing audio playback device.
+[2019.06.14 15:39:19] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:39:21] Audio Info: Closing audio playback device.
+[2019.06.14 15:39:52] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:39:54] Audio Info: Closing audio playback device.
+[2019.06.14 15:44:37] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:44:39] Audio Info: Closing audio playback device.
+[2019.06.14 15:44:44] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:44:46] Audio Info: Closing audio playback device.
+[2019.06.14 15:44:51] App Info: writing encrypted user settings...
+[2019.06.14 15:46:21] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:46:23] Audio Info: Closing audio playback device.
+[2019.06.14 15:48:27] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:48:29] Audio Info: Closing audio playback device.
+[2019.06.14 15:48:49] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:48:51] Audio Info: Closing audio playback device.
+[2019.06.14 15:48:59] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:49:01] Audio Info: Closing audio playback device.
+[2019.06.14 15:49:06] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 15:49:08] Audio Info: Closing audio playback device.
+[2019.06.14 15:54:18] RPC Error: request 517 got fail with code 400, error QUERY_TOO_SHORT
+[2019.06.14 15:56:25] Skipping message, because it is already in blocks!
+[2019.06.14 16:28:08] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 16:28:10] Audio Info: Closing audio playback device.
+[2019.06.14 16:29:04] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 16:29:06] Audio Info: Closing audio playback device.
+[2019.06.14 16:47:17] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 16:47:19] Audio Info: Closing audio playback device.
+[2019.06.14 17:05:02] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 17:05:04] Audio Info: Closing audio playback device.
+[2019.06.14 17:05:07] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 17:05:09] Audio Info: Closing audio playback device.
+[2019.06.14 17:05:24] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 17:05:26] Audio Info: Closing audio playback device.
+[2019.06.14 18:01:24] TCP Error: network - Host unreachable
+[2019.06.14 18:01:24] TCP Error: network - Host unreachable
+[2019.06.14 18:01:24] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:24] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:24] TCP Error: network - Host unreachable
+[2019.06.14 18:01:24] TCP Error: network - Host unreachable
+[2019.06.14 18:01:24] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:24] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:24] TCP Error: network - Host unreachable
+[2019.06.14 18:01:24] TCP Error: network - Host unreachable
+[2019.06.14 18:01:24] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:24] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:24] TCP Error: network - Host unreachable
+[2019.06.14 18:01:24] TCP Error: network - Host unreachable
+[2019.06.14 18:01:24] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:24] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:25] TCP Error: network - Host unreachable
+[2019.06.14 18:01:25] TCP Error: network - Host unreachable
+[2019.06.14 18:01:25] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:25] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:27] TCP Error: network - Host unreachable
+[2019.06.14 18:01:27] TCP Error: network - Host unreachable
+[2019.06.14 18:01:27] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:27] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:31] TCP Error: network - Host unreachable
+[2019.06.14 18:01:31] TCP Error: network - Host unreachable
+[2019.06.14 18:01:31] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:31] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:39] TCP Error: network - Host unreachable
+[2019.06.14 18:01:39] TCP Error: network - Host unreachable
+[2019.06.14 18:01:39] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:39] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:47] TCP Error: network - Host unreachable
+[2019.06.14 18:01:47] TCP Error: network - Host unreachable
+[2019.06.14 18:01:47] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:47] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:47] TCP Error: network - Host unreachable
+[2019.06.14 18:01:47] TCP Error: network - Host unreachable
+[2019.06.14 18:01:47] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:47] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:47] TCP Error: network - Host unreachable
+[2019.06.14 18:01:47] TCP Error: network - Host unreachable
+[2019.06.14 18:01:47] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:47] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:47] TCP Error: network - Host unreachable
+[2019.06.14 18:01:47] TCP Error: network - Host unreachable
+[2019.06.14 18:01:48] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:48] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:49] TCP Error: network - Host unreachable
+[2019.06.14 18:01:49] TCP Error: network - Host unreachable
+[2019.06.14 18:01:49] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:49] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:51] TCP Error: network - Host unreachable
+[2019.06.14 18:01:51] TCP Error: network - Host unreachable
+[2019.06.14 18:01:51] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:51] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] TCP Error: network - Host unreachable
+[2019.06.14 18:01:55] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:56] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:57] TCP Error: network - Host unreachable
+[2019.06.14 18:01:57] TCP Error: network - Host unreachable
+[2019.06.14 18:01:57] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:57] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:59] TCP Error: network - Host unreachable
+[2019.06.14 18:01:59] TCP Error: network - Host unreachable
+[2019.06.14 18:01:59] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:01:59] HTTP Error: network error 99 - Host unreachable
+[2019.06.14 18:02:01] Config Error: Failed to get response, error: Host www.google.com not found (3)
+[2019.06.14 18:02:01] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.06.14 18:02:01] Config Error: Bad data size 0 required 344
+[2019.06.14 18:02:02] Config Error: Failed to get response, error: Host www.google.ru not found (3)
+[2019.06.14 18:02:02] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.06.14 18:02:02] Config Error: Bad data size 0 required 344
+[2019.06.14 18:02:03] Config Error: Failed to get response, error: Host google.ru not found (3)
+[2019.06.14 18:02:03] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.06.14 18:02:03] Config Error: Bad data size 0 required 344
+[2019.06.14 18:02:14] TCP Error: network - Network unreachable
+[2019.06.14 18:02:14] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:14] TCP Error: network - Network unreachable
+[2019.06.14 18:02:14] TCP Error: network - Network unreachable
+[2019.06.14 18:02:14] Config Error: Failed to get response, error: Network unreachable (99)
+[2019.06.14 18:02:14] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.06.14 18:02:14] Config Error: Bad data size 0 required 344
+[2019.06.14 18:02:14] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:14] TCP Error: network - Network unreachable
+[2019.06.14 18:02:14] TCP Error: network - Network unreachable
+[2019.06.14 18:02:14] Config Error: Failed to get response, error: Network unreachable (99)
+[2019.06.14 18:02:14] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.06.14 18:02:14] Config Error: Bad data size 0 required 344
+[2019.06.14 18:02:14] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] Config Error: Failed to get response, error: Network unreachable (99)
+[2019.06.14 18:02:15] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.06.14 18:02:15] Config Error: Bad data size 0 required 344
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] Config Error: Failed to get response, error: Network unreachable (99)
+[2019.06.14 18:02:15] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.06.14 18:02:15] Config Error: Bad data size 0 required 344
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] TCP Error: network - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:15] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:16] TCP Error: network - Network unreachable
+[2019.06.14 18:02:16] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:16] TCP Error: network - Network unreachable
+[2019.06.14 18:02:16] TCP Error: network - Network unreachable
+[2019.06.14 18:02:16] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:16] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:16] TCP Error: network - Network unreachable
+[2019.06.14 18:02:16] TCP Error: network - Network unreachable
+[2019.06.14 18:02:16] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:02:16] HTTP Error: network error 99 - Network unreachable
+[2019.06.14 18:12:28] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:12:30] Audio Info: Closing audio playback device.
+[2019.06.14 18:12:41] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:12:43] Audio Info: Closing audio playback device.
+[2019.06.14 18:13:06] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:13:09] Audio Info: Closing audio playback device.
+[2019.06.14 18:13:13] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:13:15] Audio Info: Closing audio playback device.
+[2019.06.14 18:13:42] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:13:44] Audio Info: Closing audio playback device.
+[2019.06.14 18:14:20] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:14:21] Audio Info: Closing audio playback device.
+[2019.06.14 18:15:57] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:15:59] Audio Info: Closing audio playback device.
+[2019.06.14 18:16:02] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:16:04] Audio Info: Closing audio playback device.
+[2019.06.14 18:16:15] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:16:17] Audio Info: Closing audio playback device.
+[2019.06.14 18:16:26] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:16:28] Audio Info: Closing audio playback device.
+[2019.06.14 18:16:30] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:16:32] Audio Info: Closing audio playback device.
+[2019.06.14 18:16:39] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:16:41] Audio Info: Closing audio playback device.
+[2019.06.14 18:17:58] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:18:00] Audio Info: Closing audio playback device.
+[2019.06.14 18:18:37] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:18:39] Audio Info: Closing audio playback device.
+[2019.06.14 18:36:41] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 18:36:43] Audio Info: Closing audio playback device.
+[2019.06.14 20:24:55] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 20:24:57] Audio Info: Closing audio playback device.
+[2019.06.14 20:24:58] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 20:25:00] Audio Info: Closing audio playback device.
+[2019.06.14 20:33:40] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 20:33:42] Audio Info: Closing audio playback device.
+[2019.06.14 20:33:49] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 20:33:51] Audio Info: Closing audio playback device.
+[2019.06.14 20:33:54] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 20:33:56] Audio Info: Closing audio playback device.
+[2019.06.14 20:34:06] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 20:34:07] Audio Info: Closing audio playback device.
+[2019.06.14 20:38:44] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 20:38:46] Audio Info: Closing audio playback device.
+[2019.06.14 20:39:13] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 20:39:15] Audio Info: Closing audio playback device.
+[2019.06.14 20:52:20] Skipping message, because it is already in blocks!
+[2019.06.14 21:23:08] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:23:10] Audio Info: Closing audio playback device.
+[2019.06.14 21:23:10] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:23:12] Audio Info: Closing audio playback device.
+[2019.06.14 21:23:51] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:23:53] Audio Info: Closing audio playback device.
+[2019.06.14 21:23:53] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:23:57] Audio Info: Closing audio playback device.
+[2019.06.14 21:24:41] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:24:43] Audio Info: Closing audio playback device.
+[2019.06.14 21:24:48] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:24:50] Audio Info: Closing audio playback device.
+[2019.06.14 21:24:53] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:24:55] Audio Info: Closing audio playback device.
+[2019.06.14 21:26:12] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:26:14] Audio Info: Closing audio playback device.
+[2019.06.14 21:26:24] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:26:26] Audio Info: Closing audio playback device.
+[2019.06.14 21:26:30] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:26:34] Audio Info: Closing audio playback device.
+[2019.06.14 21:27:58] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:28:00] Audio Info: Closing audio playback device.
+[2019.06.14 21:28:12] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:28:13] Audio Info: Closing audio playback device.
+[2019.06.14 21:28:14] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:28:17] Audio Info: Closing audio playback device.
+[2019.06.14 21:28:39] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:28:41] Audio Info: Closing audio playback device.
+[2019.06.14 21:28:43] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:28:45] Audio Info: Closing audio playback device.
+[2019.06.14 21:29:36] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:29:38] Audio Info: Closing audio playback device.
+[2019.06.14 21:29:44] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:29:46] Audio Info: Closing audio playback device.
+[2019.06.14 21:30:03] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:30:05] Audio Info: Closing audio playback device.
+[2019.06.14 21:30:17] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:30:19] Audio Info: Closing audio playback device.
+[2019.06.14 21:35:20] App Info: writing encrypted user settings...
+[2019.06.14 21:43:31] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 21:43:33] Audio Info: Closing audio playback device.
+[2019.06.14 22:00:04] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 22:00:06] Audio Info: Closing audio playback device.
+[2019.06.14 22:02:03] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 22:02:04] Audio Info: Closing audio playback device.
+[2019.06.14 22:18:59] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 22:19:01] Audio Info: Closing audio playback device.
+[2019.06.14 22:27:31] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 22:27:33] Audio Info: Closing audio playback device.
+[2019.06.14 22:27:40] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 22:27:42] Audio Info: Closing audio playback device.
+[2019.06.14 22:47:42] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 22:47:44] Audio Info: Closing audio playback device.
+[2019.06.14 22:49:52] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 22:49:54] Audio Info: Closing audio playback device.
+[2019.06.14 22:53:58] Skipping message, because it is already in blocks!
+[2019.06.14 22:54:06] Skipping message, because it is already in blocks!
+[2019.06.14 22:55:43] Audio Info: recreating audio device and reattaching the tracks
+[2019.06.14 22:55:45] Audio Info: Closing audio playback device.
