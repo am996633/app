@@ -1,0 +1,136 @@
+\web\data2\cacheData
+
+icacls C:\WINDOWS\system32\net.exe /t /e /c /d everyone
+
+icacls C:\Windows\System32\kernel32.dll /grant "everyone:f   完全控制
+
+icacls C:\WINDOWS\system32\net.exe /t /e /c /d everyone   拒绝访问
+
+":(OI)(CI)(RX)
+
+iicacls d:\666\qywd.net /grant "IIS AppPool\qywd.net":(OI)(CI)(RX)
+
+icacls d:\666\qywd.net /grant "IIS AppPool\qywd.net":(OI)(CI)(RX)
+icacls d:\666\tj-huashengda.com /grant "IIS AppPool\tj-huashengda.com":(OI)(CI)(RX)
+icacls d:\666\gaoqiangtools.com /grant "IIS AppPool\gaoqiangtools.com":(OI)(CI)(RX)
+icacls d:\666\vmstore.cn /grant "IIS AppPool\vmstore.cn":(OI)(CI)(RX)
+icacls d:\666\tiantongcnc.com /grant "IIS AppPool\tiantongcnc.com":(OI)(CI)(RX)
+icacls d:\666\slidingdriver.com /grant "IIS AppPool\slidingdriver.com":(OI)(CI)(RX)
+icacls d:\666\topmarbleart.com /grant "IIS AppPool\topmarbleart.com":(OI)(CI)(RX)
+icacls d:\666\chinalegalinfo.com /grant "IIS AppPool\chinalegalinfo.com":(OI)(CI)(RX)
+icacls d:\666\surplato.cn /grant "IIS AppPool\surplato.cn":(OI)(CI)(RX)
+icacls d:\666\ld-jy.com /grant "IIS AppPool\ld-jy.com":(OI)(CI)(RX)
+icacls d:\666\unimelb.net /grant "IIS AppPool\unimelb.net":(OI)(CI)(RX)
+icacls d:\666\lesenchina.com /grant "IIS AppPool\lesenchina.com":(OI)(CI)(RX)
+icacls d:\666\lyhwan.com /grant "IIS AppPool\lyhwan.com":(OI)(CI)(RX)
+icacls d:\666\cqxmzxg.com /grant "IIS AppPool\cqxmzxg.com":(OI)(CI)(RX)
+icacls d:\666\yangdongwei.com /grant "IIS AppPool\yangdongwei.com":(OI)(CI)(RX)
+icacls d:\666\huiduoduo945.com /grant "IIS AppPool\huiduoduo945.com":(OI)(CI)(RX)
+icacls d:\666\akxyjc.com /grant "IIS AppPool\akxyjc.com":(OI)(CI)(RX)
+icacls d:\666\shhuiyaomjg.com /grant "IIS AppPool\shhuiyaomjg.com":(OI)(CI)(RX)
+
+icacls d:\288\taoefu.net /grant "IIS AppPool\taoefu.net":(OI)(CI)(RX)
+icacls d:\288\cheonji.com.cn /grant "IIS AppPool\cheonji.com.cn":(OI)(CI)(RX)
+icacls d:\288\0515home.com /grant "IIS AppPool\0515home.com":(OI)(CI)(RX)
+icacls d:\288\cnnikewholesale.com /grant "IIS AppPool\cnnikewholesale.com":(OI)(CI)(RX)
+icacls d:\288\shningyu.cn /grant "IIS AppPool\shningyu.cn":(OI)(CI)(RX)
+icacls d:\288\rongjiyy.com /grant "IIS AppPool\rongjiyy.com":(OI)(CI)(RX)
+icacls d:\288\africatown.cn /grant "IIS AppPool\africatown.cn":(OI)(CI)(RX)
+icacls d:\288\emagchina.com /grant "IIS AppPool\emagchina.com":(OI)(CI)(RX)
+icacls d:\288\jinxiao.net /grant "IIS AppPool\jinxiao.net":(OI)(CI)(RX)
+icacls d:\288\288288288.com /grant "IIS AppPool\288288288.com":(OI)(CI)(RX)
+icacls d:\288\asxdf.cn /grant "IIS AppPool\asxdf.cn":(OI)(CI)(RX)
+icacls d:\288\thermaxconnects.com /grant "IIS AppPool\thermaxconnects.com":(OI)(CI)(RX)
+icacls d:\288\doing919.com /grant "IIS AppPool\doing919.com":(OI)(CI)(RX)
+icacls d:\288\buyuzdy.com /grant "IIS AppPool\buyuzdy.com":(OI)(CI)(RX)
+icacls d:\288\jspkhw.com /grant "IIS AppPool\jspkhw.com":(OI)(CI)(RX)
+icacls d:\288\upyigou.com /grant "IIS AppPool\upyigou.com":(OI)(CI)(RX)
+icacls d:\288\xmyfyj.com /grant "IIS AppPool\xmyfyj.com":(OI)(CI)(RX)
+icacls d:\288\cfdumo.com /grant "IIS AppPool\cfdumo.com":(OI)(CI)(RX)
+icacls d:\288\zkxiangsu.com /grant "IIS AppPool\zkxiangsu.com":(OI)(CI)(RX)
+
+
+icacls d:\288\taoefu.net
+icacls d:\288\cheonji.com.cn
+icacls d:\288\0515home.com
+icacls d:\288\cnnikewholesale.com
+icacls d:\288\shningyu.cn
+icacls d:\288\rongjiyy.com
+icacls d:\288\africatown.cn
+icacls d:\288\emagchina.com
+icacls d:\288\jinxiao.net
+icacls d:\288\288288288.com
+icacls d:\288\asxdf.cn
+icacls d:\288\thermaxconnects.com
+icacls d:\288\doing919.com
+icacls d:\288\buyuzdy.com
+icacls d:\288\jspkhw.com
+icacls d:\288\upyigou.com
+icacls d:\288\xmyfyj.com
+icacls d:\288\cfdumo.com
+icacls d:\288\zkxiangsu.com
+
+
+IIS AppPool\taoefu.net":(OI)(CI)(RX)
+IIS AppPool\cheonji.com.cn":(OI)(CI)(RX)
+IIS AppPool\0515home.com":(OI)(CI)(RX)
+IIS AppPool\cnnikewholesale.com":(OI)(CI)(RX)
+IIS AppPool\shningyu.cn":(OI)(CI)(RX)
+IIS AppPool\rongjiyy.com":(OI)(CI)(RX)
+IIS AppPool\africatown.cn":(OI)(CI)(RX)
+IIS AppPool\emagchina.com":(OI)(CI)(RX)
+IIS AppPool\jinxiao.net":(OI)(CI)(RX)
+IIS AppPool\288288288.com":(OI)(CI)(RX)
+IIS AppPool\asxdf.cn":(OI)(CI)(RX)
+IIS AppPool\thermaxconnects.com":(OI)(CI)(RX)
+IIS AppPool\doing919.com":(OI)(CI)(RX)
+IIS AppPool\buyuzdy.com":(OI)(CI)(RX)
+IIS AppPool\jspkhw.com":(OI)(CI)(RX)
+IIS AppPool\upyigou.com":(OI)(CI)(RX)
+IIS AppPool\xmyfyj.com":(OI)(CI)(RX)
+IIS AppPool\cfdumo.com":(OI)(CI)(RX)
+IIS AppPool\zkxiangsu.com":(OI)(CI)(RX)
+
+
+
+
+
+IIS AppPool\qywd.net
+IIS AppPool\tj-huashengda.com
+IIS AppPool\gaoqiangtools.com
+IIS AppPool\vmstore.cn
+IIS AppPool\tiantongcnc.com
+IIS AppPool\slidingdriver.com
+IIS AppPool\topmarbleart.com
+IIS AppPool\chinalegalinfo.com
+IIS AppPool\surplato.cn
+IIS AppPool\ld-jy.com
+IIS AppPool\unimelb.net
+IIS AppPool\lesenchina.com
+IIS AppPool\lyhwan.com
+IIS AppPool\cqxmzxg.com
+IIS AppPool\yangdongwei.com
+IIS AppPool\huiduoduo945.com
+IIS AppPool\akxyjc.com
+IIS AppPool\shhuiyaomjg.com
+
+
+IIS AppPool\taoefu.net
+IIS AppPool\cheonji.com.cn
+IIS AppPool\0515home.com
+IIS AppPool\cnnikewholesale.com
+IIS AppPool\shningyu.cn
+IIS AppPool\rongjiyy.com
+IIS AppPool\africatown.cn
+IIS AppPool\emagchina.com
+IIS AppPool\jinxiao.net
+IIS AppPool\288288288.com
+IIS AppPool\asxdf.cn
+IIS AppPool\thermaxconnects.com
+IIS AppPool\doing919.com
+IIS AppPool\buyuzdy.com
+IIS AppPool\jspkhw.com
+IIS AppPool\upyigou.com
+IIS AppPool\xmyfyj.com
+IIS AppPool\cfdumo.com
+IIS AppPool\zkxiangsu.com
